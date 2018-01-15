@@ -1,5 +1,10 @@
 ## Introduction
 
+Please SEE FILE  "FirstProject.R" to replicate the four Plots
+You may type dev.off() to reset your output screen
+Be sure you have "household_power_consumption.txt" in your directory
+
+Default description:
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
