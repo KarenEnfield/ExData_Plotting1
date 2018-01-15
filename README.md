@@ -1,9 +1,18 @@
 ## Introduction
 
-Please SEE FILE  "FirstProject.R" to replicate the four Plots
-You may type dev.off() to reset your output screen
+Please SEE FILE  "FirstProject.R" to see the original code to make
+the four Plots for the assignment.
+
+Source files: 
+plot1.R, plot2.r, plot3.r, plot4.r 
+are cut and pasted code from the "original code in "FirstProject.R"
+to create PNG files:
+plot1.png, plot2.png, plot3.png, plot4.png
+
 Be sure you have "household_power_consumption.txt" in your directory
 
+
+--------------
 Default description:
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
